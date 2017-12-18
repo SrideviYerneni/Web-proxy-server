@@ -1,2 +1,1 @@
-# Web-proxy-server
-Academic project
+# Web-proxy-server-
